@@ -1,2 +1,3 @@
-# doooks.github.io
-my site
+# Development
+
+To run locally: bundle exec serve
